@@ -1,0 +1,18 @@
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\bin\Debug\HungryDuckResturant.Core.dll
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\bin\Debug\HungryDuckResturant.Core.pdb
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\bin\Debug\HungryDuckResturant.Data.dll
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\bin\Debug\HungryDuckResturant.Entity.dll
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\bin\Debug\HungryDuckResturant.Data.pdb
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\bin\Debug\HungryDuckResturant.Entity.pdb
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\obj\Debug\HungryDuckResturant.Core.csprojResolveAssemblyReference.cache
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\obj\Debug\HungryDuckResturant.Core.dll
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\obj\Debug\HungryDuckResturant.Core.pdb
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\bin\Debug\HungryDuckResturant.Core.dll
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\bin\Debug\HungryDuckResturant.Core.pdb
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\bin\Debug\HungryDuckResturant.Data.dll
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\bin\Debug\HungryDuckResturant.Entity.dll
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\bin\Debug\HungryDuckResturant.Data.pdb
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\bin\Debug\HungryDuckResturant.Entity.pdb
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\obj\Debug\HungryDuckResturant.Core.csprojResolveAssemblyReference.cache
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\obj\Debug\HungryDuckResturant.Core.dll
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Core\obj\Debug\HungryDuckResturant.Core.pdb

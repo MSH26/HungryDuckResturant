@@ -1,0 +1,10 @@
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Entity\bin\Debug\HungryDuckResturant.Entity.dll
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Entity\bin\Debug\HungryDuckResturant.Entity.pdb
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Entity\obj\Debug\HungryDuckResturant.Entity.csprojResolveAssemblyReference.cache
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Entity\obj\Debug\HungryDuckResturant.Entity.dll
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Entity\obj\Debug\HungryDuckResturant.Entity.pdb
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Entity\bin\Debug\HungryDuckResturant.Entity.dll
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Entity\bin\Debug\HungryDuckResturant.Entity.pdb
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Entity\obj\Debug\HungryDuckResturant.Entity.csprojResolveAssemblyReference.cache
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Entity\obj\Debug\HungryDuckResturant.Entity.dll
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Entity\obj\Debug\HungryDuckResturant.Entity.pdb

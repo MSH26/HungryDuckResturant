@@ -1,0 +1,39 @@
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.exe.config
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.csprojResolveAssemblyReference.cache
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.Properties.Resources.resources
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.csproj.GenerateResource.Cache
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.exe
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.pdb
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.Core.dll
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.Entity.dll
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.Data.dll
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.Core.pdb
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.Entity.pdb
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.Data.pdb
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.exe
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.pdb
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.Owner.resources
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.MessageForm.resources
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.Login.resources
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.Admin.resources
+D:\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.exe.config
+D:\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.exe
+D:\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.pdb
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.exe.config
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.exe
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.pdb
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.exe
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.pdb
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.Core.dll
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.Entity.dll
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.Data.dll
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.Core.pdb
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.Entity.pdb
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\bin\Debug\HungryDuckResturant.Data.pdb
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.csprojResolveAssemblyReference.cache
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.Admin.resources
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.Login.resources
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.MessageForm.resources
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.Owner.resources
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.Properties.Resources.resources
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant\obj\Debug\HungryDuckResturant.csproj.GenerateResource.Cache

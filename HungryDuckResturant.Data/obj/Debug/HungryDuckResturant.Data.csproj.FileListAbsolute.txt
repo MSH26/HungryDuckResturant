@@ -1,0 +1,16 @@
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\obj\Debug\HungryDuckResturant.Data.csprojResolveAssemblyReference.cache
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\bin\Debug\HungryDuckResturant.Data.dll.config
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\bin\Debug\HungryDuckResturant.Data.dll
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\bin\Debug\HungryDuckResturant.Data.pdb
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\bin\Debug\HungryDuckResturant.Entity.dll
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\bin\Debug\HungryDuckResturant.Entity.pdb
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\obj\Debug\HungryDuckResturant.Data.dll
+I:\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\obj\Debug\HungryDuckResturant.Data.pdb
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\bin\Debug\HungryDuckResturant.Data.dll.config
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\bin\Debug\HungryDuckResturant.Data.dll
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\bin\Debug\HungryDuckResturant.Data.pdb
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\bin\Debug\HungryDuckResturant.Entity.dll
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\bin\Debug\HungryDuckResturant.Entity.pdb
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\obj\Debug\HungryDuckResturant.Data.csprojResolveAssemblyReference.cache
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\obj\Debug\HungryDuckResturant.Data.dll
+D:\SAKIB\Dropbox\AIUB\6th Semister\C#\Project\Project\HungryDuckResturant\HungryDuckResturant.Data\obj\Debug\HungryDuckResturant.Data.pdb
